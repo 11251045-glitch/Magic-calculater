@@ -3,7 +3,7 @@
   "name": "計算機",
   "icons": [
     {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/iOS_Calculator_icon.png/192x192.png",
+      "src": "icon.png",
       "sizes": "any",
       "type": "image/png"
     }
