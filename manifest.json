@@ -4,12 +4,7 @@
   "icons": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/iOS_Calculator_icon.png/192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/iOS_Calculator_icon.png/512x512.png",
-      "sizes": "512x512",
+      "sizes": "any",
       "type": "image/png"
     }
   ],
